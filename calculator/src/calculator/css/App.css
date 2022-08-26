@@ -1,0 +1,68 @@
+
+/* .App{
+  
+    margin: auto;
+    height: 245px;
+    width: 180px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    
+  
+  }
+  button{
+    padding: 8px;
+   
+    height: 40px;
+    width: 45px;
+    justify-content: center;
+    margin: auto;
+    
+  }
+  .point{
+      margin-left: 90px;
+     
+     
+  } */
+
+  .App{
+  
+    margin: auto;
+    height: auto;
+    width: 300px;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    padding: 25px;
+    
+  
+  }
+  button{
+    padding: 8px;
+   
+    height: 71px;
+    width: 75px;
+    justify-content: center;
+    margin: auto;
+    font-size: larger;
+    
+  }
+  .point{
+      margin-left: 150px;
+     
+     
+  }
+  .cal{
+      color: brown;
+      margin-bottom: 10px;
+      padding: 10px;
+      font-size: xx-large;
+      font-weight: 800;
+      
+  }
+  .calculatorinput{
+      width: 250px;
+      height: 20px;
+      background-color: black;
+      color: white;
+      padding: 10px;
+      font-size: larger;
+  }
